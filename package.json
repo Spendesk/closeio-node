@@ -32,7 +32,6 @@
     "test": "./node_modules/mocha/bin/mocha --recursive test/"
   },
   "dependencies": {
-    "node-promise": "0.5.8",
     "request": "2.69.0"
   },
   "devDependencies": {
